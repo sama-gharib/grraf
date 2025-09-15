@@ -1,6 +1,6 @@
 # grraf
 
-(Please find `grraf`'s license in the `LICENSE.md` file)
+(Please find `grraf`'s license in the `LICENSE` file)
 
 ## What is grraf ?
 
