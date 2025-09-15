@@ -23,14 +23,14 @@ fork and experiment with `grraf`.
 
 Here is a list of `grraf`'s main goals :
 
-- [ ] Provide the `Graph<Vertex, Edge>` trait, which exposes a safe interface for graph manipulation.
+- [X] Provide the `Graph<Vertex, Edge>` trait, which exposes a safe interface for graph manipulation.
 - [ ] Implement the `Graph<Vertex, Edge>` trait for several graph backends :
     - [ ] `AdjacencyMatrix`
-    - [ ] `IndexList`
+    - [ ] `IndexList` <- ***Doing This Right Now !***
     - [ ] `PointerList`
     - [ ] `RefCountGraph`
 - [ ] Add some basic algorithms
-    - [ ] Depth First Search
+    - [X] Depth First Search
     - [ ] Breadth First Search
     - [ ] Cycle checking
     - [ ] Dijkstra's algorithm
